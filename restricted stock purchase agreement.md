@@ -4,7 +4,7 @@
 
 **[STOCK PLAN NAME]**
 
-This Restricted Stock Purchase Agreement (the “Agreement”) is made as of _ _ _ _ _ _ _ _ _ _  by and between [Company Name], a Delaware corporation (the “Company”), and _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  (“Purchaser”) pursuant to the Company’s [Stock Plan Name] (the “Plan”).  To the extent any capitalized terms used in this Agreement are not defined, they shall have the meaning ascribed to them in the Plan. 
+This Restricted Stock Purchase Agreement (the “Agreement”) is made as of _ _ _ _ _ _ _ _ _ _  by and between [Company Name], a Delaware corporation (the “Company”), and _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  (“Purchaser”) pursuant to the Company’s [Stock Plan Name],(the “Plan”).  To the extent any capitalized terms used in this Agreement are not defined, they shall have the meaning ascribed to them in the Plan. 
 
 >1) **Sale of Stock.**  Subject to the terms and conditions of this Agreement, on the Purchase Date (as defined below) the Company will issue and sell to Purchaser, and Purchaser agrees to purchase from the Company, _ _ _ _ _ _ _ _ _ _  shares of the Company’s Common Stock (the “Shares”) at a purchase price of $_ _ _ _ _ _ _ _ _ _  per Share for a total purchase price of $_ _ _ _ _ _ _ _ _ _ .  The term “Shares” refers to the purchased Shares and all securities received in replacement of or in connection with the Shares pursuant to stock dividends or splits, all securities received in replacement of the Shares in a recapitalization, merger, reorganization, exchange or the like, and all new, substituted or additional securities or other properties to which Purchaser is entitled by reason of Purchaser’s ownership of the Shares. 
 
@@ -81,15 +81,15 @@ This Restricted Stock Purchase Agreement (the “Agreement”) is made as of _ _ _ _
 
 >>(b) **Entire Agreement; Enforcement of Rights.**  This Agreement sets forth the entire agreement and understanding of the parties relating to the subject matter herein and merges all prior discussions between them.  No modification of or amendment to this Agreement, nor any waiver of any rights under this Agreement, shall be effective unless in writing signed by the parties to this Agreement.  The failure by either party to enforce any rights under this Agreement shall not be construed as a waiver of any rights of such party. 
 
->(c) **Severability.**  If one or more provisions of this Agreement are held to be unenforceable under applicable law, the parties agree to renegotiate such provision in good faith.  In the event that the parties cannot reach a mutually agreeable and enforceable replacement for such provision, then (i) such provision shall be excluded from this Agreement, (ii) the balance of the Agreement shall be interpreted as if such provision were so excluded and (iii) the balance of the Agreement shall be enforceable in accordance with its terms. 
+>>(c) **Severability.**  If one or more provisions of this Agreement are held to be unenforceable under applicable law, the parties agree to renegotiate such provision in good faith.  In the event that the parties cannot reach a mutually agreeable and enforceable replacement for such provision, then (i) such provision shall be excluded from this Agreement, (ii) the balance of the Agreement shall be interpreted as if such provision were so excluded and (iii) the balance of the Agreement shall be enforceable in accordance with its terms. 
 
->(d) **Notices.**  Any notice required or permitted by this Agreement shall be in writing and shall be deemed sufficient upon delivery, when delivered personally or by overnight courier or sent by email or fax (upon customary confirmation of receipt), or forty-eight (48) hours after being deposited in the U.S. mail as certified or registered mail with postage prepaid, addressed to the party to be notified at such party’s address or fax number as set forth on the signature page or as subsequently modified by written notice.
+>>(d) **Notices.**  Any notice required or permitted by this Agreement shall be in writing and shall be deemed sufficient upon delivery, when delivered personally or by overnight courier or sent by email or fax (upon customary confirmation of receipt), or forty-eight (48) hours after being deposited in the U.S. mail as certified or registered mail with postage prepaid, addressed to the party to be notified at such party’s address or fax number as set forth on the signature page or as subsequently modified by written notice.
   
->(e) **Counterparts.**  This Agreement may be executed in two or more counterparts, each of which shall be deemed an original and all of which together shall constitute one instrument.  
+>>(e) **Counterparts.**  This Agreement may be executed in two or more counterparts, each of which shall be deemed an original and all of which together shall constitute one instrument.  
 
->(f) **Successors and Assigns.**  The rights and benefits of this Agreement shall inure to the benefit of, and be enforceable by the Company’s successors and assigns.  The rights and obligations of Purchaser under this Agreement may only be assigned with the prior written consent of the Company. 
+>>(f) **Successors and Assigns.**  The rights and benefits of this Agreement shall inure to the benefit of, and be enforceable by the Company’s successors and assigns.  The rights and obligations of Purchaser under this Agreement may only be assigned with the prior written consent of the Company. 
 
->(g) [**California Corporate Securities Law.**  THE SALE OF THE SECURITIES WHICH ARE THE SUBJECT OF THIS AGREEMENT HAS NOT BEEN QUALIFIED WITH THE COMMISSIONER OF CORPORATIONS OF THE STATE OF CALIFORNIA AND THE ISSUANCE OF THE SECURITIES OR THE PAYMENT OR RECEIPT OF ANY PART OF THE CONSIDERATION THEREFOR PRIOR TO THE QUALIFICATION IS UNLAWFUL, UNLESS THE SALE OF SECURITIES IS EXEMPT FROM QUALIFICATION BY SECTION 25100, 25102 OR 25105 OF THE CALIFORNIA CORPORATIONS CODE.  THE RIGHTS OF ALL PARTIES TO THIS AGREEMENT ARE EXPRESSLY CONDITIONED UPON THE QUALIFICATION BEING OBTAINED, UNLESS THE SALE IS SO EXEMPT.] 
+>>(g) [**California Corporate Securities Law.**  THE SALE OF THE SECURITIES WHICH ARE THE SUBJECT OF THIS AGREEMENT HAS NOT BEEN QUALIFIED WITH THE COMMISSIONER OF CORPORATIONS OF THE STATE OF CALIFORNIA AND THE ISSUANCE OF THE SECURITIES OR THE PAYMENT OR RECEIPT OF ANY PART OF THE CONSIDERATION THEREFOR PRIOR TO THE QUALIFICATION IS UNLAWFUL, UNLESS THE SALE OF SECURITIES IS EXEMPT FROM QUALIFICATION BY SECTION 25100, 25102 OR 25105 OF THE CALIFORNIA CORPORATIONS CODE.  THE RIGHTS OF ALL PARTIES TO THIS AGREEMENT ARE EXPRESSLY CONDITIONED UPON THE QUALIFICATION BEING OBTAINED, UNLESS THE SALE IS SO EXEMPT.] 
  
 *[Signature Page Follows]*
  
@@ -113,7 +113,7 @@ Fax:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 email:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
 
-PURCHASER: 
+**PURCHASER:** 
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ (PRINT NAME)  
 

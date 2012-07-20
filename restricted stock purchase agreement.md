@@ -159,22 +159,21 @@ Spouse of Purchaser (if applicable): _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 The undersigned has entered into a stock purchase agreement with [Company Name], a Delaware corporation (the “Company”), pursuant to which the undersigned is purchasing _ _ _ _ _ _ _ _ _ _  shares of Common Stock of the Company (the “Shares”).  In connection with the purchase of the Shares, the undersigned hereby represents as follows: 
 
->1. The undersigned has carefully reviewed the stock purchase agreement pursuant to which the undersigned is purchasing the Shares. 
+>1) The undersigned has carefully reviewed the stock purchase agreement pursuant to which the undersigned is purchasing the Shares. 
 
->2. The undersigned either [check and complete as applicable]: 
+>2) The undersigned either [check and complete as applicable]: 
 
 >>(a) _ _ _  has consulted, and has been fully advised by, the undersigned’s own tax advisor, _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ , whose business address is _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ , regarding the federal, state and local tax consequences of purchasing the Shares, and particularly regarding the advisability of making elections pursuant to Section 83(b) of the Internal Revenue Code of 1986, as amended (the “Code”) and pursuant to the corresponding provisions, if any, of applicable state law; or 
 
 >>(b) _ _ _ has knowingly chosen not to consult such a tax advisor. 
 
->3. The undersigned hereby states that the undersigned has decided [check as applicable]: 
+>3) The undersigned hereby states that the undersigned has decided [check as applicable]: 
 
 >>(a) _ _ _  to make an election pursuant to Section 83(b) of the Code, and is submitting to the Company, together with the undersigned’s executed Common Stock Purchase Agreement, an executed form entitled “Election Under Section 83(b) of the Internal Revenue Code of 1986;” or 
 
 >>(b) _ _ _  not to make an election pursuant to Section 83(b) of the Code. 
 
- 
->>4. Neither the Company nor any subsidiary or representative of the Company has made any warranty or representation to the undersigned with respect to the tax consequences of the undersigned’s purchase of the Shares or of the making or failure to make an election pursuant to Section 83(b) of the Code or the corresponding provisions, if any, of applicable state law. 
+>4) Neither the Company nor any subsidiary or representative of the Company has made any warranty or representation to the undersigned with respect to the tax consequences of the undersigned’s purchase of the Shares or of the making or failure to make an election pursuant to Section 83(b) of the Code or the corresponding provisions, if any, of applicable state law. 
 
 **Dated:** _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
 
@@ -196,29 +195,29 @@ Spouse of Purchaser (if applicable): _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 The undersigned taxpayer hereby elects, pursuant to Section 83(b) of the Internal Revenue Code, to include in taxpayer’s gross income or alternative minimum taxable income, as applicable, for the current taxable year, the amount of any income that may be taxable to taxpayer in connection with taxpayer’s receipt of the property described below: 
 
->1. The name, address, taxpayer identification number and taxable year of the undersigned are as follows: 
+>1) The name, address, taxpayer identification number and taxable year of the undersigned are as follows: 
 
-NAME OF TAXPAYER:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _   
+>NAME OF TAXPAYER:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _   
 
-NAME OF SPOUSE:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _   
+>NAME OF SPOUSE:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _   
 
-ADDRESS: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
+>ADDRESS: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
 
-IDENTIFICATION NO. OF TAXPAYER:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _   
+>IDENTIFICATION NO. OF TAXPAYER:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _   
 
-IDENTIFICATION NO. OF SPOUSE:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _   
+>IDENTIFICATION NO. OF SPOUSE:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _   
 
-TAXABLE YEAR:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _   
+>TAXABLE YEAR:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _   
 
->2. The property with respect to which the election is made is described as follows: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  shares of the Common Stock of [Company Name], a Delaware corporation (the “Company”). 
+>2) The property with respect to which the election is made is described as follows: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  shares of the Common Stock of [Company Name], a Delaware corporation (the “Company”). 
 
->3. The date on which the property was transferred is:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _   
+>3) The date on which the property was transferred is:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _   
 
->4. The property is subject to the following restrictions: Repurchase option at cost in favor of the Company upon termination of taxpayer’s employment or consulting relationship. 
+>4) The property is subject to the following restrictions: Repurchase option at cost in favor of the Company upon termination of taxpayer’s employment or consulting relationship. 
 
->5. The fair market value at the time of transfer, determined without regard to any restriction other than a restriction which by its terms will never lapse, of such property is:  $_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ . 
+>5) The fair market value at the time of transfer, determined without regard to any restriction other than a restriction which by its terms will never lapse, of such property is:  $_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ . 
 
->6. The amount (if any) paid for such property:  $_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ . The undersigned has submitted a copy of this statement to the person for whom the services were performed in connection with the undersigned’s receipt of the above-described property.  The transferee of such property is the person performing the services in connection with the transfer of said property. The undersigned understands that the foregoing election may not be revoked except with the consent of the Commissioner. 
+>6) The amount (if any) paid for such property:  $_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ . The undersigned has submitted a copy of this statement to the person for whom the services were performed in connection with the undersigned’s receipt of the above-described property.  The transferee of such property is the person performing the services in connection with the transfer of said property. The undersigned understands that the foregoing election may not be revoked except with the consent of the Commissioner. 
 
 **Dated:** _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
 

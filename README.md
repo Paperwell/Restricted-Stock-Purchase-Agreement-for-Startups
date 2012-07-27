@@ -1,3 +1,5 @@
+##Description
+
 To be used when equity grants under the Stock Plan are made as restricted stock awards rather than options. Will include specifics regarding the repurchase right of the Company and how it will lapse over time. These are not as common as options and you should consult with counsel as to whether restricted stock or options are more appropriate for a particular Stock Plan award.
 
 This legal document comes from the Start-Up Forms Library provided by the Emerging Companies Group at Orrick - an international law firm headquartered in San Francisco.  The entire Start-Up Forms Library consists of the following:
@@ -49,12 +51,17 @@ This legal document comes from the Start-Up Forms Library provided by the Emergi
   - 83(b) Election Form
   - 25102(o) Notice
 
+##Legal Liability
 
-- - - - - 
+This document should not be considered legal advice, and no attorney-client relationship is formed by your use of this document.  This information may not be suited for your specific situation.  Please consult an attorney to address your particular needs.  See the [Orrick] terms.
 
-If you have any documents you'd like to share on Github but don't want to be bothered with formatting it nicely in Markdown, please email it to our **Gmail account: paperwellcare**.  
+##Help Make Legal Documents Open-Source 
 
 We're [Paperwell.com] and we're trying to make quality legal documents a free, public resource.  
+
+If you have any documents you'd like to share on Github but don't want to be bothered with formatting it nicely in Markdown, please email it to our **Gmail account: paperwellcare**.  we'll do it for you.
+
 Thanks!
 
 [Paperwell.com]: http://www.paperwell.com
+[Orrick]: http://www.orrick.com/inc/NoticePublication.asp?sDocID=1946&sExt=doc
